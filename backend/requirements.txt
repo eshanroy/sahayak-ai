@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+groq
+python-dotenv
+python-multipart
+pydantic
+pymupdf
+pillow
+pytesseract
